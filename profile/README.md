@@ -6,7 +6,7 @@ In this article, we'll explore everything included in SamFW Tool v5.5.1, includi
 
 
 ---
-## [Download Samfw Tool](frptoolsdownload.com/samfw-tool)
+## [Download Samfw Tool](https://frptoolsdownload.com/samfw-tool)
 ### Samfw v5.5.1 New Update Feature
 Today, we introducing SamFw FRP Tool version 5.5.1
 
